@@ -172,7 +172,8 @@
 
 /火箭[运载火箭|固体火箭] => 火箭
 
-/Speak X [马斯克的语音公司 | Speak X 业务进展] => Speak X
+/SpaceX 近期业务进展 [轨道数据中心进展 | 星链二代计划] => SpaceX 近期业务进展
+/SpaceX IPO 计划 => SpaceX IPO 计划
 
 /字节|bytedance|张一鸣/i => 字节跳动
 
